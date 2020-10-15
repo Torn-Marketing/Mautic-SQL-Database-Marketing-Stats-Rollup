@@ -1,5 +1,4 @@
 # Mautic-SQL-Database-Rollup
-
 Mautic SQL query to create a table for marketing statistics which can be easily used for 3rd party Business Intelligence (BI) tools or reporting dashboards
 
 ie Google Data Studio
